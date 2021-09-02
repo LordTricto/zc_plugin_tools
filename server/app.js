@@ -1,7 +1,6 @@
 require("express-async-errors");
 const express = require("express");
 const { google } = require("googleapis");
-const {} = require("googleapis");
 const app = express();
 
 const env = require("./src/config/env");
